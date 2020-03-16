@@ -20,6 +20,8 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 3   | https://cs.nyu.edu/~joannakl/ossd_s20/daily.html  | Pull Request |   I fixed a broken link.  |
+| Mar 16  | https://nyu-ossd-s20.github.io/alifafaruk-weekly/week07/| Issue  | Issue pointed out typos on blog post |
+|     |     |     |      |
 |     |     |     |      |
 |     |     |     |      |
