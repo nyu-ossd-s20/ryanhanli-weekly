@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Feb 3   | https://cs.nyu.edu/~joannakl/ossd_s20/daily.html  | Pull Request |   I fixed a broken link.  |
 | Mar 15  | https://nyu-ossd-s20.github.io/alifafaruk-weekly/week07/| Issue  | Issue pointed out typos on blog post |
 | Mar 16  | https://nyu-ossd-s20.github.io/Moonsolol-weekly/week07/| Issue  | Issue pointed out typos on blog post |
-|     |     |     |      |
+| Mar 22  | https://nyu-ossd-s20.github.io/mattfan00-weekly/week07/ | Issue | Issue pointed out typos on blog post |
 |     |     |     |      |
