@@ -26,4 +26,7 @@ Replace the first row with your own contribution.
 | Mar 16  | https://github.com/nyu-ossd-s20/Moonsolol-weekly/issues/2| Issue  | Issue pointed out typos on blog post |
 | Mar 22  | https://github.com/nyu-ossd-s20/mattfan00-weekly/issues/2 | Issue | Issue pointed out typos on blog post |
 | Mar 29  | https://github.com/nyu-ossd-s20/pmets-weekly/issues/1 | Issue | Issue pointed out typos on blog post |
+| Apr 5   | https://github.com/nyu-ossd-s20/austintian03-weekly/issues/1 | Issue | Issue pointed out typos on blog post |
+| Apr 5   | https://github.com/nyu-ossd-s20/emmetthannigan-weekly/issues/1| Issue | Issue pointed out typos on blog post |
+
 
