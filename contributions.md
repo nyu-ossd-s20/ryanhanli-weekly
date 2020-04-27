@@ -28,4 +28,7 @@ Replace the first row with your own contribution.
 | Mar 29  | https://github.com/nyu-ossd-s20/pmets-weekly/issues/1 | Issue | Issue pointed out typos on blog post |
 | Apr 5   | https://github.com/nyu-ossd-s20/austintian03-weekly/issues/1 | Issue | Issue pointed out typos on blog post |
 | Apr 5   | https://github.com/nyu-ossd-s20/emmetthannigan-weekly/issues/1| Issue | Issue pointed out typos on blog post |
-| Apr 12   | https://github.com/nyu-ossd-s20/MuyingLi-weekly/issues/4| Issue | Issue pointed out typos on blog post |
+| Apr 12  | https://github.com/nyu-ossd-s20/MuyingLi-weekly/issues/4| Issue | Issue pointed out typos on blog post |
+| Apr 26  | https://en.wikipedia.org/w/index.php?title=Javaris_Crittenton&oldid=953372441 | Wikipedia | Added extra details about the NBA player and fixed a comma for consistency |
+| Apr 26  | https://en.wikipedia.org/w/index.php?title=Bobby_Shmurda&oldid=953375692 | Wikipedia | Updated YouTube metric numbers |
+| Apr 26  | https://en.wikipedia.org/w/index.php?title=Shai_Gilgeous-Alexander&oldid=953377408 | Wikipedia | Added extra details regarding a historic stat |
