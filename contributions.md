@@ -34,3 +34,6 @@ Replace the first row with your own contribution.
 | Apr 26  | https://en.wikipedia.org/w/index.php?title=Shai_Gilgeous-Alexander&oldid=953377408 | Wikipedia | Added extra details regarding a historic stat |
 | Apr 29  | https://en.wikipedia.org/w/index.php?title=Danilo_Gallinari&oldid=953810960 | Wikipedia | Updated current team stats |
 | May 03  | https://en.wikipedia.org/w/index.php?title=John_Collins_(basketball)&oldid=954753327 | Wikipedia | Updated stats since his return from NBA suspension |
+| May 08  | https://www.openstreetmap.org/changeset/84909846#map=19/41.20276/-73.88441 | OpenStreetMap | Added a supermarket to a shopping center in my town |
+| May 08  | https://www.openstreetmap.org/changeset/84910299#map=19/41.19347/-73.88005 | OpenStreetMap | Added a UPS store to a shopping strip |
+| May 08  | https://www.openstreetmap.org/changeset/84910486#map=19/41.20051/-73.88515 | OpenStreetMap | Added a building area and a pizza parlor that's located on it |
